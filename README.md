@@ -29,4 +29,3 @@ Deployed to Heroku:https://damp-refuge-38033.herokuapp.com/?id=60d278dc6a363d001
 ![Screenshot (32)](https://user-images.githubusercontent.com/78382681/123014874-1fadbe00-d395-11eb-8146-78ae6aa8e7b3.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/78382681/123014887-23d9db80-d395-11eb-8723-9511084cfcb1.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/78382681/123014898-2d634380-d395-11eb-8336-ff31d2cc6cb5.png)
-![Screenshot (36)](https://user-images.githubusercontent.com/78382681/123014915-348a5180-d395-11eb-97c7-74a48f5f236b.png)
